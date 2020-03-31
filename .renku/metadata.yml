@@ -1,0 +1,11 @@
+'@context':
+  created: schema:dateCreated
+  schema: http://schema.org/
+  name: schema:name
+  updated: schema:dateUpdated
+  version: schema:schemaVersion
+'@type': schema:Project
+created: 2020-01-07T15:49:03.810Z
+name: template_01
+updated: 2020-01-07T15:49:03.810Z
+version: '1'

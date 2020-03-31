@@ -1,0 +1,2 @@
+renku-r-tools==0.0.3
+illumina-utils==2.7
